@@ -1,0 +1,7 @@
+# 密钥和本地配置，不要提交到 Git
+.env
+memory.json
+memory.json.tmp
+sessions/
+__pycache__/
+*.pyc
